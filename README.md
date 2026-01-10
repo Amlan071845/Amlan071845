@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I am Amlan💫
 I’m a Cyber Security student with a strong interest in building secure, reliable systems and understanding how they break. I enjoy working at the intersection of security, development, and design, where logic and creativity meet.<br><br>I spend most of my time learning through hands-on practice. This includes exploring web and system vulnerabilities, setting up labs, testing security tools, and building small projects that reflect real-world scenarios. I believe security is not just about tools, but about mindset, clarity, and continuous learning.<br><br>Alongside cybersecurity, I have a background in UI/UX and graphic design, which helps me think from a user’s perspective and design systems that are both usable and secure.
 
 
